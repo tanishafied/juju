@@ -1,0 +1,1 @@
+json.array! @jus, partial: 'jus/ju', as: :ju
